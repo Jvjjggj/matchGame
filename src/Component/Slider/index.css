@@ -1,0 +1,21 @@
+.btn-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5px;
+  align-items: center;
+  width: 60%;
+}
+.btn {
+  margin: 5px;
+  color: white;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+..unorder-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+}

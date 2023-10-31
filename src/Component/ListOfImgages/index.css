@@ -1,0 +1,11 @@
+.img-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.imgg {
+  height: 70px;
+  border-radius: 5px;
+}
